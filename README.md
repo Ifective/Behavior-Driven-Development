@@ -70,9 +70,11 @@ Aan de hand van deze scenario's worden _bindings_ gemaakt om de afzonderlijke st
 ```
 
 Op het moment dat de scenario's geschreven worden, zal de code nog niet geïmplementeerd zijn en zullen de testen falen.
+
 ![Falende tests](images/NotImplementedScenarios.png "Falende tests")
 
 Op het moment dat de code correct geïmplementeerd is zullen de testen slagen.
+
 ![Geslaagde tests](images/PassedScenarios.png "Geslaagde tests")
 
 ## Wat zijn de voordelen van BDD?
